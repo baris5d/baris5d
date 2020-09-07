@@ -4,8 +4,7 @@ My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate abou
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my JavaScript skills,
-- 🌱 I'm currently improving my skills on Django,
+- 👨🏽‍💻 I’m currently working on improving my JavaScript and Django skills,
 - 💬 Ask me about anything, I am happy to help,
 - 📫 How to reach me: [baris@barisdede.com](mailto:baris@barisdede.com)
 
