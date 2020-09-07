@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey 👋🏽, I'm Barış.
 
-<!--
-**baris5d/baris5d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate about software development & innovations. Currently, I'm a Full Stack Developer and Co-Founder at [Typelish](https://typelish.com/).
 
-Here are some ideas to get you started:
+**Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨🏽‍💻 I’m currently working on improving my JavaScript skills,
+- 🌱 I'm currently improving my skills on Django,
+- 💬 Ask me about anything, I am happy to help,
+- 📫 How to reach me: [baris@barisdede.com](mailto:baris@barisdede.com)
+
+**My 2020 goals:**
+
+- [ ] Contribute at least one open-source project,
+- [ ] Release a npm package,
+- [ ] Read more books in foreign language,
+- [ ] Do things on the [homepage](https://barisdede.com) that can highlight your abilities,
+- [ ] Create a portfolio that shows your skills.
