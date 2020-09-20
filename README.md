@@ -15,3 +15,5 @@ My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate abou
 - [ ] Read more books in foreign language,
 - [ ] Do things on the [homepage](https://barisdede.com) that can highlight your abilities,
 - [ ] Create a portfolio that shows your skills.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baris5d&layout=compact)](https://github.com/famadelenn/github-readme-stats)
