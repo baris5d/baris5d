@@ -10,7 +10,7 @@ My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate abou
 
 **My 2020 goals:**
 
-- [ ] Contribute at least one open-source project,
+- [x] Contribute at least one open-source project,
 - [ ] Release a npm package,
 - [ ] Read more books in foreign language,
 - [ ] Do things on the [homepage](https://barisdede.com) that can highlight your abilities,
