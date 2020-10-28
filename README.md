@@ -13,4 +13,3 @@ My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate abou
 [![Medium](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@baris5d)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/baris5d)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baris5d&theme=tokyonight)](https://github.com/baris5d/github-readme-stats)
