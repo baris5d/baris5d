@@ -1,11 +1,9 @@
 ### Hey 👋🏽, I'm Barış.
 
-My name is Barış. I'm a junior from Ankara, Turkey. I'm deeply passionate about software development & innovations. Currently, I'm a Full Stack Developer and Co-Founder at [Typelish](https://typelish.com/).
+My name is Barış. I'm a frontend developer from Ankara, Turkey. I'm deeply passionate about software development & innovations. Currently, I'm working as a frontend developer and Co-Founder at [Typelish](https://typelish.com/).
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my JavaScript and Django skills,
-- 👨💻I found the opportunity to examine Flutter and now I'm trying to learn it.(My first project in first week of learning Flutter : [Dirty Paws](https://github.com/Dirty-Paws/Mobile-App)
 - 💬 Ask me about anything, I am happy to help,
 - 📫 How to reach me: [baris@barisdede.com](mailto:baris@barisdede.com)
 
